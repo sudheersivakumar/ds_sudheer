@@ -64,10 +64,29 @@ graph LR
 
 ## 📊 Key Visualizations & Insights
 
-### 1. PnL Distribution by Sentiment
-![PnL by Sentiment](<img width="879" height="546" alt="Image" src="https://github.com/user-attachments/assets/c9d5b9cc-b245-465b-8f56-5d7b752d9dfd" />)
+### 1.1 Win Rate by Market Sentiment
 
-**Insight**: Clear outperformance during fear periods validates contrarian approach.
+<img width="688" height="545" alt="Image" src="https://github.com/user-attachments/assets/de8a2d08-ccfb-46f5-a28c-5984c3a2a1cd" />
+
+**Insight**: Higher win rates are observed during Fear and Greed periods, indicating better trading opportunities.
+
+### 1.2 Trade Volume by Sentiment
+
+<img width="843" height="545" alt="Image" src="https://github.com/user-attachments/assets/759d1af7-5b0b-4c90-9e76-b457f8e8f660" />
+
+**Insight**: Neutral periods show the highest trade volumes, while Extreme Fear periods have the lowest, reflecting investor behavior.
+
+### 1.3 Daily Trade Activity by Sentiment
+
+<img width="855" height="545" alt="Image" src="https://github.com/user-attachments/assets/e5e61fbe-05e9-4766-96d6-ee9801892908" />
+
+**Insight**: The box plot reveals significant variability in daily trade counts, with Neutral periods showing higher consistency compared to Extreme Fear.
+
+### 1.4 Daily Trader PnL by Sentiment
+
+<img width="879" height="546" alt="Image" src="https://github.com/user-attachments/assets/c98e6c0a-e5ff-4666-a8b1-b5e56f243057" />
+
+**Insight**: Traders achieve significantly higher PnL during Fear periods compared to Greed periods, validating the contrarian trading strategy.
 
 ### 2. Risk-Adjusted Performance Matrix
 ```
